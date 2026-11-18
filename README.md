@@ -99,7 +99,8 @@ Un bouton permet de passer d'un mode à l'autre.
 | 1 | Capteur numérique de niveau d'eau | Vérifier le réservoir |
 | 1 | Mini-pompe à eau | Arroser la plante |
 | 1 | Module de commande de pompe | Commander la pompe |
-| 1 | DEL RGB et résistances | Indiquer l'état du système |
+| 2 | led | afficher l`etat de la pompe(auto/manuel)|
+| 2  |résistances | Indiquer l'état du système |
 | 1 | Écran OLED I2C | Afficher les informations |
 | 1 | Bouton-poussoir | Changer de mode |
 | 1 | Breadboard | Réaliser le circuit |
