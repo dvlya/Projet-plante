@@ -54,6 +54,7 @@ Le système continue à mesurer l'humidité et à afficher son état, mais la po
 Un bouton permet de passer d'un mode à l'autre.
 
 ## 3. Diagramme fonctionnel
+https://github.com/dvlya/Projet-plante/blob/fd084b6d77cb64b75af012452de63a8544c9fca4/Capture%20d%E2%80%99%C3%A9cran%202026-11-18%20093538.png
 
 ```text
        CAPTEUR D'HUMIDITÉ
